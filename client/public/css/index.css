@@ -1,9 +1,12 @@
 body {
-	
+ background-image: url("/images/campus.png");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 
 #splash_title {
-	width: 100%;
+	width: 100%;  
   font-size: 100px;
   color: red;
   opacity: 0.85;
